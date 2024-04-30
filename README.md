@@ -1,7 +1,7 @@
-![comp](https://github.com/Adazaiya/Adazaiya/assets/120755280/640b59df-b716-427b-af05-234192f1fab1)
+
 
 <h1 align="center">Hi✨, I'm Uzma </h1>
-<h2 align="left">I am studying Software Engineering :)</h2>
+<h2 align="left">Studying Software Engineering :)</h2>
 <img src="https://i.imgur.com/YWhc4iA.gif" alt="coding" width="400" align="right"/> 
 
 </p>
