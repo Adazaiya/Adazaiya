@@ -1,5 +1,6 @@
-<img src="https://github.com/Adazaiya/Adazaiya/blob/main/COMP2.gif" alt="coding" width="1000" align="center"/> 
-<h1 align="center">Hi✨, I'm Uzma </h1>
+<img src="https://i.pinimg.com/564x/39/e4/9d/39e49dca904728be75c9ee43b0d65798.jpg" alt="c" width="1000" align="center"/> 
+
+<h1 align="center">Hi ✿, I'm Uzma </h1>
 <h2 align="left">Studying Software Engineering :)</h2>
 <img src="https://i.imgur.com/YWhc4iA.gif" alt="coding" width="400" align="right"/> 
 
